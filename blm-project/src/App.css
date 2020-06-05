@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+
+.homepage-image {
+  background-image: url('https://images.pexels.com/photos/2465380/pexels-photo-2465380.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500');
+  height: 92vh;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+.mental-health-image {
+  background-image: url('https://images.pexels.com/photos/1850287/pexels-photo-1850287.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500');
+  height: 92vh;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+.community-image {
+  background-image: url('https://images.pexels.com/photos/2822857/pexels-photo-2822857.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500');
+  height: 92vh;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+
+
